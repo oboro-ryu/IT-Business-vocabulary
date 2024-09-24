@@ -511,7 +511,7 @@ function MainComponent() {
       "word": "Bask",
       "definition": "To lie exposed to warmth and light for relaxation.",
       "related_terms": ["enjoy", "revel"],
-      "example_sentence":: "We can bask in our recent success, but we must keep pushing forward."
+      "example_sentence": "We can bask in our recent success, but we must keep pushing forward."
     },
     {
       "word": "Wrath",
