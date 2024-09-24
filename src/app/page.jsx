@@ -347,7 +347,7 @@ function MainComponent() {
       </nav>
 
       <div className="container mx-auto p-4">
-        <div className="mb-4">
+        {/* <div className="mb-4">
           <input
             type="text"
             placeholder="Search words..."
@@ -356,9 +356,8 @@ function MainComponent() {
             value={searchQuery}
             onChange={(e) => setSearchQuery(e.target.value)}
           />
-        </div>
-
-        <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
+        </div> */}
+           {/* <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
           <div className="bg-white p-4 rounded shadow">
             <h2 className="text-xl font-bold mb-2">Word List</h2>
             <ul>
@@ -373,7 +372,10 @@ function MainComponent() {
               ))}
             </ul>
           </div>
+          </div> */}
 
+        <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
+          
           <div className="bg-white p-4 rounded shadow">
             <h2 className="text-xl font-bold mb-2">Word Details</h2>
             {currentWord && (
@@ -448,6 +450,34 @@ function MainComponent() {
               <p className="mt-4">Score: {quizScore}</p>
             </div>
           )}
+          <div className="mb-4">
+          <input
+            type="text"
+            placeholder="Search words..."
+            className="w-full p-2 border rounded"
+            name="search"
+            value={searchQuery}
+            onChange={(e) => setSearchQuery(e.target.value)}
+          />
+        </div>
+
+
+        {/* <div className="grid grid-cols-1 md:grid-cols-2 gap-4"> */}
+          <div className="bg-white p-4 rounded shadow">
+            <h2 className="text-xl font-bold mb-2">Word List</h2>
+            <ul>
+              {filteredWords.map((word) => (
+                <li key={word.word} className="mb-2">
+                  <strong>{word.word}</strong>: {word.definition}
+                  <br />
+                  <span className="text-sm text-gray-600">
+                    Related terms: {word.related_terms.join(", ")}
+                  </span>
+                </li>
+              ))}
+            </ul>
+          </div>
+          {/* </div> */}
         </div>
       </div>
     </div>
