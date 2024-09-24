@@ -302,6 +302,306 @@ function MainComponent() {
       "definition": "A quality or feature regarded as a characteristic.",
       "related_terms": ["quality", "characteristic"],
       "example_sentence": "We can attribute our success to teamwork."
+    },
+    {
+      "word": "Impel",
+      "definition": "To drive or force someone to do something.",
+      "related_terms": ["urge", "drive"],
+      "example_sentence": "The need for innovation can impel us to rethink our strategies."
+    },
+    {
+      "word": "Lubricate",
+      "definition": "To make something smooth or easier to operate.",
+      "related_terms": ["smooth", "facilitate"],
+      "example_sentence": "We should lubricate our communication processes to avoid misunderstandings."
+    },
+    {
+      "word": "Nibble",
+      "definition": "To take small bites; to gradually reduce or diminish.",
+      "related_terms": ["bite", "chew"],
+      "example_sentence": "Let’s nibble away at this project in smaller tasks."
+    },
+    {
+      "word": "Polarize",
+      "definition": "To cause division or conflict within a group.",
+      "related_terms": ["divide", "separate"],
+      "example_sentence": "Our recent policy changes might polarize opinions within the team."
+    },
+    {
+      "word": "Pounce",
+      "definition": "To spring or leap suddenly in order to seize or attack.",
+      "related_terms": ["spring", "leap"],
+      "example_sentence": "We need to pounce on new opportunities as they arise."
+    },
+    {
+      "word": "Retaliate",
+      "definition": "To respond to an attack or injury with a similar action.",
+      "related_terms": ["avenge", "counter"],
+      "example_sentence": "Instead of retaliating, we should focus on improving our service."
+    },
+    {
+      "word": "Rummage",
+      "definition": "To search through something in a hurried or messy way.",
+      "related_terms": ["search", "scavenge"],
+      "example_sentence": "We should rummage through past data to find trends."
+    },
+    {
+      "word": "Spearhead",
+      "definition": "To lead or initiate an effort or movement.",
+      "related_terms": ["lead", "initiate"],
+      "example_sentence": "I’d like to spearhead the new project initiative."
+    },
+    {
+      "word": "Typify",
+      "definition": "To represent or embody a particular type or characteristic.",
+      "related_terms": ["represent", "exemplify"],
+      "example_sentence": "This case can typify the challenges we face in this sector."
+    },
+    {
+      "word": "Prowl",
+      "definition": "To move about stealthily or secretly.",
+      "related_terms": ["sneak", "skulk"],
+      "example_sentence": "We need to prowl the market for new trends."
+    },
+    {
+      "word": "Retract",
+      "definition": "To withdraw or take back a statement or promise.",
+      "related_terms": ["withdraw", "recant"],
+      "example_sentence": "We might need to retract that statement if new information arises."
+    },
+    {
+      "word": "Ruffle",
+      "definition": "To disturb or disarrange; to upset the calm of.",
+      "related_terms": ["disturb", "upset"],
+      "example_sentence": "We don’t want to ruffle any feathers with our new policies."
+    },
+    {
+      "word": "Detest",
+      "definition": "To dislike intensely; to hate.",
+      "related_terms": ["hate", "loathe"],
+      "example_sentence": "I detest unnecessary meetings that waste our time."
+    },
+    {
+      "word": "Feign",
+      "definition": "To pretend to be affected by a feeling, state, or injury.",
+      "related_terms": ["pretend", "simulate"],
+      "example_sentence": "We shouldn't feign ignorance about customer feedback."
+    },
+    {
+      "word": "Fluctuate",
+      "definition": "To change or vary irregularly.",
+      "related_terms": ["vary", "change"],
+      "example_sentence": "Sales figures tend to fluctuate during the holiday season."
+    },
+    {
+      "word": "Meddle",
+      "definition": "To interfere in something that is not one's concern.",
+      "related_terms": ["interfere", "intrude"],
+      "example_sentence": "Let’s not meddle in other teams’ projects."
+    },
+    {
+      "word": "Pamper",
+      "definition": "To indulge with attention, comfort, or kindness.",
+      "related_terms": ["spoil", "coddle"],
+      "example_sentence": "We should pamper our clients with exceptional service."
+    },
+    {
+      "word": "Peruse",
+      "definition": "To read or examine something carefully.",
+      "related_terms": ["examine", "review"],
+      "example_sentence": "Please peruse the report before our meeting."
+    },
+    {
+      "word": "Pique",
+      "definition": "To stimulate interest or curiosity.",
+      "related_terms": ["stimulate", "arouse"],
+      "example_sentence": "This feature will pique user interest significantly."
+    },
+    {
+      "word": "Indoctrinate",
+      "definition": "To teach a doctrine or ideology to someone.",
+      "related_terms": ["instruct", "teach"],
+      "example_sentence": "We must indoctrinate our team with the new values."
+    },
+    {
+      "word": "Orchestrate",
+      "definition": "To arrange or direct the elements of a situation.",
+      "related_terms": ["arrange", "organize"],
+      "example_sentence": "We need to orchestrate a better workflow among departments."
+    },
+    {
+      "word": "Fortify",
+      "definition": "To strengthen or secure.",
+      "related_terms": ["strengthen", "secure"],
+      "example_sentence": "We should fortify our cybersecurity measures."
+    },
+    {
+      "word": "Bolster",
+      "definition": "To support or strengthen.",
+      "related_terms": ["support", "boost"],
+      "example_sentence": "We need to bolster our marketing efforts this quarter."
+    },
+    {
+      "word": "Exhort",
+      "definition": "To strongly encourage or urge someone to do something.",
+      "related_terms": ["urge", "encourage"],
+      "example_sentence": "I will exhort the team to meet deadlines."
+    },
+    {
+      "word": "Coerce",
+      "definition": "To persuade someone to do something by using force or threats.",
+      "related_terms": ["force", "compel"],
+      "example_sentence": "We should not coerce clients into decisions."
+    },
+    {
+      "word": "Dazzle",
+      "definition": "To impress deeply; to astonish.",
+      "related_terms": ["impress", "astonish"],
+      "example_sentence": "Let’s dazzle our clients with our new presentation."
+    },
+    {
+      "word": "Debunk",
+      "definition": "To expose the falseness or hollowness of a myth or belief.",
+      "related_terms": ["disprove", "expose"],
+      "example_sentence": "We need to debunk the myths about remote work."
+    },
+    {
+      "word": "Surmise",
+      "definition": "To suppose that something is true without having evidence.",
+      "related_terms": ["guess", "infer"],
+      "example_sentence": "I can only surmise the reasons for the drop in sales."
+    },
+    {
+      "word": "Reiterate",
+      "definition": "To say something again for emphasis or clarity.",
+      "related_terms": ["repeat", "restate"],
+      "example_sentence": "I want to reiterate the importance of teamwork."
+    },
+    {
+      "word": "Enunciate",
+      "definition": "To pronounce clearly and distinctly.",
+      "related_terms": ["articulate", "pronounce"],
+      "example_sentence": "Please enunciate your points clearly during the presentation."
+    },
+    {
+      "word": "Defuse",
+      "definition": "To make a situation less tense or dangerous.",
+      "related_terms": ["calm", "alleviate"],
+      "example_sentence": "We need to defuse any tension during negotiations."
+    },
+    {
+      "word": "Berate",
+      "definition": "To scold or criticize someone angrily.",
+      "related_terms": ["rebuke", "scold"],
+      "example_sentence": "We shouldn’t berate employees for minor mistakes."
+    },
+    {
+      "word": "Abscond",
+      "definition": "To leave hurriedly and secretly, typically to avoid detection.",
+      "related_terms": ["escape", "flee"],
+      "example_sentence": "We need to ensure no sensitive data is absconded."
+    },
+    {
+      "word": "Broach",
+      "definition": "To bring up a topic for discussion.",
+      "related_terms": ["mention", "raise"],
+      "example_sentence": "I want to broach the topic of remote work options."
+    },
+    {
+      "word": "Bask",
+      "definition": "To lie exposed to warmth and light for relaxation.",
+      "related_terms": ["enjoy", "revel"],
+      "example_sentence":: "We can bask in our recent success, but we must keep pushing forward."
+    },
+    {
+      "word": "Wrath",
+      "definition": "Extreme anger; rage.",
+      "related_terms": ["anger", "fury"],
+      "example_sentence": "We need to avoid incurring the wrath of our clients."
+    },
+    {
+      "word": "Antiseptic",
+      "definition": "A substance that prevents infection.",
+      "related_terms": ["clean", "sterile"],
+      "example_sentence": "This approach acts like an antiseptic for bad practices."
+    },
+    {
+      "word": "Attrition",
+      "definition": "The reduction of a workforce by employees leaving.",
+      "related_terms": ["reduction", "loss"],
+      "example_sentence": "Employee attrition can impact our team dynamics."
+    },
+    {
+      "word": "Bombardment",
+      "definition": "A continuous attack with bombs or artillery.",
+      "related_terms": ["attack", "assault"],
+      "example_sentence": "We are facing a bombardment of requests from clients."
+    },
+    {
+      "word": "Euphoria",
+      "definition": "A feeling of intense happiness and excitement.",
+      "related_terms": ["joy", "elation"],
+      "example_sentence": "The team is in a state of euphoria after the successful launch."
+    },
+    {
+      "word": "Futility",
+      "definition": "Pointlessness or uselessness.",
+      "related_terms": ["pointlessness", "ineffectiveness"],
+      "example_sentence": "We must avoid the futility of redundant tasks."
+    },
+    {
+      "word": "Infatuation",
+      "definition": "An intense but short-lived passion or admiration.",
+      "related_terms": ["obsession", "passion"],
+      "example_sentence": "We should not fall into infatuation with flashy features over functionality."
+    },
+    {
+      "word": "Inhalation",
+      "definition": "The act of breathing in.",
+      "related_terms": ["breath", "respiration"],
+      "example_sentence": "Taking a deep inhalation can help reduce stress during presentations."
+    },
+    {
+      "word": "Labyrinth",
+      "definition": "A complicated network of winding passages or paths.",
+      "related_terms": ["maze", "complexity"],
+      "example_sentence": "Navigating the labyrinth of regulations can be challenging."
+    },
+    {
+      "word": "Reconnaissance",
+      "definition": "Military observation of a region to locate an enemy or ascertain strategic features.",
+      "related_terms": ["scouting", "surveying"],
+      "example_sentence": "We need to conduct reconnaissance on competitor strategies."
+    },
+    {
+      "word": "Remittance",
+      "definition": "A sum of money sent, especially by mail, in payment for goods or services.",
+      "related_terms": ["payment", "transfer"],
+      "example_sentence": "Timely remittance from clients is essential for cash flow."
+    },
+    {
+      "word": "Rendezvous",
+      "definition": "A meeting at an agreed time and place.",
+      "related_terms": ["meeting", "appointment"],
+      "example_sentence": "Let’s set up a rendezvous to discuss the project."
+    },
+    {
+      "word": "Restitution",
+      "definition": "The restoration of something lost or stolen to its proper owner.",
+      "related_terms": ["return", "repayment"],
+      "example_sentence": "We need to discuss restitution for the lost data."
+    },
+    {
+      "word": "Slur",
+      "definition": "To speak in a way that is unclear or not distinct.",
+      "related_terms": ["mumble", "speak indistinctly"],
+      "example_sentence": "Let’s ensure our messages are clear and not a slur."
+    },
+    {
+      "word": "Strife",
+      "definition": "Angry or bitter disagreement over fundamental issues.",
+      "related_terms": ["conflict", "discord"],
+      "example_sentence": "There has been strife within the team regarding project direction."
     }
   ];
 
